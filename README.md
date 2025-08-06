@@ -38,5 +38,5 @@ Multithreaded server design
 Backend architecture and web fundamentals
 
 
-You can watch the working video below
+You can watch the working video here: 
 https://www.linkedin.com/feed/update/urn:li:activity:7327579031971803136/
